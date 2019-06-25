@@ -46,5 +46,5 @@ end
 
 def retrieve_last_element_from_array(array)
   driftBoating = ["PFD", "trolling motor", "rod", "bait"]
-  driftBoating.(-1)
+  driftBoating[-1]
 end
