@@ -18,7 +18,7 @@ end
 
 def add_element_to_start_of_array(array, element)
   driftBoating = ["PFD", "trolling motor", "rod", "bait"]
-  driftBoating.unshift("beer")
+  driftBoating.unshift("PFD")
 
 end
 
