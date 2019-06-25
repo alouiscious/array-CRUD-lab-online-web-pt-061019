@@ -12,7 +12,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   driftBoating = ["PFD", "trolling motor", "rod", "bait"]
-  driftBoating.LAST("sun block")
+  driftBoating.last("sun block")
 
 end
 
