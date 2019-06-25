@@ -24,23 +24,23 @@ end
 
 def remove_element_from_end_of_array(array)
   driftBoating = ["PFD", "trolling motor", "rod", "bait"]
-  driftBoating.pop("bait")
+  bait = driftBoating.pop
 
 end
 
 def remove_element_from_start_of_array(array)
   driftBoating = ["PFD", "trolling motor", "rod", "bait"]
-  driftBoating.shift("PFD")
+  PFD = driftBoating.shift
 end
 
 def retrieve_element_from_index(array, index_number)
   driftBoating = ["PFD", "trolling motor", "rod", "bait"]
-  driftBoating.[2]
+  driftBoating[2]
 end
 
 def retrieve_first_element_from_array(array)
   driftBoating = ["PFD", "trolling motor", "rod", "bait"]
-  driftBoating.[0]
+  driftBoating[0]
 
 end
 
